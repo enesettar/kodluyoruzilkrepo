@@ -9,7 +9,7 @@ bu repo [kodluyoruz]() front end eğitiminde oluşturduğumuz ilk repo. İçeris
 https://github.com/enesettar/kodluyoruzilkrepo.git
 ***
 
-# Usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio programında açınız
 
@@ -19,9 +19,9 @@ cd kodluyoruzilkrepo
 code .
 ***
 
-# Contributing
+## Contributing
 
 Pull requestler kabyl edilir. Büyük değişiklikler için için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
-# License
+##  License
 [MIT]()
